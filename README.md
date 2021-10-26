@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://github.com/Hualdop/comingApparel)
 - Live Site URL: (https://hualdop.github.io/comingApparel/)
 
 ## My process
